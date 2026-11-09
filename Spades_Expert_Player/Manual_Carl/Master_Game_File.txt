@@ -1,0 +1,12 @@
+Game start date:	2021-08-20
+Team 1:	David	Carl_1
+Team 2:	Alexa	Carl_2
+Game score limit:	500
+Game bag limit:	10
+Wheel bonus:	100
+Nil bonus:	100
+Team 1 has:	190	Points and	0	Bags and	0	Blinds and	0	Wheels and	0	Nils
+Team 2 has:	244	Points and	4	Bags and	0	Blinds and	0	Wheels and	0	Nils
+Current round:	4
+Current dealer:	Carl_1
+Winner of the game:	Undecided
